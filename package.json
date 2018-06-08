@@ -1,0 +1,10 @@
+{
+  "name": "nebdeployer",
+  "version": "1.0.0",
+  "description": "nebulas contract deployer",
+  "author": "bipaio",
+  "dependencies": {
+    "nebulas": "^0.4.8",
+    "request": "^2.85.0"
+  }
+}
